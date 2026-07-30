@@ -1,5 +1,29 @@
-site_name: Моё портфолио технического писателя
+site_name: TechWriter.Andrey
 site_description: Документация к моему портфолио
 
 theme:
   name: material
+
+nav:
+- Главная: index.md
+- Как я создавал портфолио:
+    - Введение: process/index.md
+    - Выбор инструментов: process/01-tools.md
+    - Настройка MkDocs: process/02-setup.md
+    - Интеграция Mermaid: process/03-mermaid.md
+    - Интеграция Swagger UI: process/04-swagger.md
+    - Настройка CI/CD: process/05-cicd.md
+- Проекты:
+    - Проект 1 (GitHub API): projects/project-1/index.md
+    - Проект 2 (в разработке): projects/project-2/index.md
+- Обо мне: about.md
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+extra_javascript:
+  - https://unpkg.com/mermaid@11.14.0/dist/mermaid.min.js

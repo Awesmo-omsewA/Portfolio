@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+# Привет, я Андрей 👋
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Я технический писатель. Это моё портфолио, созданное с помощью MkDocs.
 
-## Commands
+## Что вы найдёте здесь
+- **[Как я создавал это портфолио](process/)** — процесс выбора инструментов, настройки и деплоя.
+- **[Мои проекты](projects/)** — примеры документации для реальных и учебных проектов.
+- **[Обо мне](about.md)** — мой опыт, навыки и контакты.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Технологии, которые я использую
+- Markdown, Git, GitHub
+- MkDocs, Material for MkDocs
+- Mermaid, Swagger UI / OpenAPI
+- GitHub Actions (CI/CD)
