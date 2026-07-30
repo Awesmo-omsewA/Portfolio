@@ -1,0 +1,5 @@
+site_name: Моё портфолио технического писателя
+site_description: Документация к моему портфолио
+
+theme:
+  name: material
