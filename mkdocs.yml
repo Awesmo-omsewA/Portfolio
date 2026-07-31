@@ -16,6 +16,7 @@ nav:
 - Проекты:
     - Проект 1 (GitHub API): projects/project-1/index.md
     - Проект 2 (в разработке): projects/project-2/index.md
+- API-документация: api.md
 - Обо мне: about.md
 
 markdown_extensions:
@@ -27,3 +28,7 @@ markdown_extensions:
 
 extra_javascript:
   - https://unpkg.com/mermaid@11.14.0/dist/mermaid.min.js
+
+plugins:
+  - search
+  - swagger-ui-tag
