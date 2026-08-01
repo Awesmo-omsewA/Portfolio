@@ -20,7 +20,7 @@ nav:
     - Интеграция Swagger UI: process/04-swagger.md
     - Настройка CI/CD: process/05-cicd.md
 - Проекты:
-    - Проект 1 (GitHub API): projects/project-1/index.md
+    - Проект 1 (Petstore): projects/project-1/index.md
     - Проект 2 (в разработке): projects/project-2/index.md
 - API-документация: api.md
 - Обо мне: about.md
