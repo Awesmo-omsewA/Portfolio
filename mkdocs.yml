@@ -3,7 +3,13 @@ site_description: Документация к моему портфолио
 
 theme:
   name: material
-
+  favicon: images/favicon-A-192x192.ico
+  logo: images/Logo-Smo-256.svg # путь к картинке логотипа
+  palette:
+    - scheme: default
+      primary: blue grey       # основной цвет
+      accent: teal   # акцентный цвет (для кнопок, ссылок и т.д.)
+  
 nav:
 - Главная: index.md
 - Как я создавал портфолио:
