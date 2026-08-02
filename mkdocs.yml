@@ -45,3 +45,5 @@ extra_javascript:
 plugins:
   - search
   - swagger-ui-tag
+
+site_url: https://awesmo-omsewa.github.io/Portfolio/
