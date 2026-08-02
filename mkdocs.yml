@@ -19,9 +19,16 @@ nav:
     - Интеграция Mermaid: process/03-mermaid.md
     - Интеграция Swagger UI: process/04-swagger.md
     - Настройка CI/CD: process/05-cicd.md
-- Проекты:
-    - Проект 1 (Petstore): projects/project-1/index.md
-    - Проект 2 (в разработке): projects/project-2/index.md
+- Мои проекты:
+  - Проект 1 (Petstore):
+    - Главная: projects/project-1/index.md
+    - Быстрый старт: projects/project-1/quickstart.md
+    - Руководство пользователя: projects/project-1/guide.md
+    - Руководство по установке: projects/project-1/installation.md
+    - Описание ошибок: projects/project-1/errors.md
+    - FAQ: projects/project-1/faq.md
+    - Release Notes: projects/project-1/releases.md
+  - Проект 2 (в разработке): projects/project-2/index.md
 - API-документация: api.md
 - Обо мне: about.md
 
