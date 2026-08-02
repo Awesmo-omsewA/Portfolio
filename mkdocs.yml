@@ -29,7 +29,7 @@ nav:
     - FAQ: projects/project-1/faq.md
     - Release Notes: projects/project-1/releases.md
   - Проект 2 (в разработке): projects/project-2/index.md
-- API-документация: api.md
+- API-документация: api-doc.md
 - Обо мне: about.md
 
 markdown_extensions:
