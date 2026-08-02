@@ -13,4 +13,4 @@
 
 ---
 
-<swagger-ui src="petstore.json"/>
+<swagger-ui src="../petstore.json"/>
